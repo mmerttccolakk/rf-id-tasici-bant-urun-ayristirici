@@ -1,0 +1,10 @@
+C:\Users\MertC\Desktop\Dosyalar\hasan\c#_program\bant_projesi\bant_projesi\bin\Debug\bant_projesi.exe.config
+C:\Users\MertC\Desktop\Dosyalar\hasan\c#_program\bant_projesi\bant_projesi\bin\Debug\bant_projesi.exe
+C:\Users\MertC\Desktop\Dosyalar\hasan\c#_program\bant_projesi\bant_projesi\bin\Debug\bant_projesi.pdb
+C:\Users\MertC\Desktop\Dosyalar\hasan\c#_program\bant_projesi\bant_projesi\obj\Debug\bant_projesi.csprojAssemblyReference.cache
+C:\Users\MertC\Desktop\Dosyalar\hasan\c#_program\bant_projesi\bant_projesi\obj\Debug\bant_projesi.Form1.resources
+C:\Users\MertC\Desktop\Dosyalar\hasan\c#_program\bant_projesi\bant_projesi\obj\Debug\bant_projesi.Properties.Resources.resources
+C:\Users\MertC\Desktop\Dosyalar\hasan\c#_program\bant_projesi\bant_projesi\obj\Debug\bant_projesi.csproj.GenerateResource.cache
+C:\Users\MertC\Desktop\Dosyalar\hasan\c#_program\bant_projesi\bant_projesi\obj\Debug\bant_projesi.csproj.CoreCompileInputs.cache
+C:\Users\MertC\Desktop\Dosyalar\hasan\c#_program\bant_projesi\bant_projesi\obj\Debug\bant_projesi.exe
+C:\Users\MertC\Desktop\Dosyalar\hasan\c#_program\bant_projesi\bant_projesi\obj\Debug\bant_projesi.pdb
